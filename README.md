@@ -1,2 +1,2 @@
-# Programming_OPP
+# Programming_OPP_SoftUni
 C# OOP
