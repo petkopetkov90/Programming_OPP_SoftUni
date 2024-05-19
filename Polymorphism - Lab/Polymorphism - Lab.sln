@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperation", "MathOperation\MathOperation.csproj", "{6F33930E-46A1-4DFF-8A39-27D5DD227EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{D58A348A-1553-4578-B818-E823B2AEF358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{CE3264B0-A8C7-48F6-AFA2-4B8CD183B0C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F33930E-46A1-4DFF-8A39-27D5DD227EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F33930E-46A1-4DFF-8A39-27D5DD227EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F33930E-46A1-4DFF-8A39-27D5DD227EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F33930E-46A1-4DFF-8A39-27D5DD227EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58A348A-1553-4578-B818-E823B2AEF358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58A348A-1553-4578-B818-E823B2AEF358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58A348A-1553-4578-B818-E823B2AEF358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58A348A-1553-4578-B818-E823B2AEF358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3264B0-A8C7-48F6-AFA2-4B8CD183B0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3264B0-A8C7-48F6-AFA2-4B8CD183B0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3264B0-A8C7-48F6-AFA2-4B8CD183B0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3264B0-A8C7-48F6-AFA2-4B8CD183B0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F884780-0C37-4598-83FB-983D95AA8649}
+	EndGlobalSection
+EndGlobal

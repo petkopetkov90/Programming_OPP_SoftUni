@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Person
+{
+    public class Child : Person
+    {
+        public Child(string name, int age)
+            : base(name, age)
+        {
+
+        }
+        public override int Age
+        {
+            get
+            {
+                return base.Age;
+            }
+            set
+            {
+                if (base.Age > 15)
+                {
+                    throw new InvalidOperationException("Invalid input");
+                }
+                base.Age = value;
+            }
+        }
+    }
+}

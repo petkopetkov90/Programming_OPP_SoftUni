@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighwayToPeak", "HighwayToPeak\HighwayToPeak.csproj", "{4ED40300-5F8B-430C-8A9A-F411563E8486}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Television", "Television\Television\Television.csproj", "{8021563B-AF98-4297-ABAD-04E172FE51FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Television.Tests", "Television\Television.Tests\Television.Tests.csproj", "{255EEDF2-61E9-44F8-AF25-0CCBEDCD10EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Railway", "Railway\Railway\Railway.csproj", "{53AE34D9-CCD5-44DE-B447-8FE29CC3F268}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Railway.Tests", "Railway\Railway.Tests\Railway.Tests.csproj", "{420E1019-0A64-49FB-9C43-A99078460AE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NauticalCatchChallenge", "NauticalCatchChallenge\NauticalCatchChallenge.csproj", "{743BBE99-411A-4FB3-B771-34DE827F63BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED40300-5F8B-430C-8A9A-F411563E8486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED40300-5F8B-430C-8A9A-F411563E8486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED40300-5F8B-430C-8A9A-F411563E8486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED40300-5F8B-430C-8A9A-F411563E8486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8021563B-AF98-4297-ABAD-04E172FE51FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8021563B-AF98-4297-ABAD-04E172FE51FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8021563B-AF98-4297-ABAD-04E172FE51FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8021563B-AF98-4297-ABAD-04E172FE51FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255EEDF2-61E9-44F8-AF25-0CCBEDCD10EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255EEDF2-61E9-44F8-AF25-0CCBEDCD10EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255EEDF2-61E9-44F8-AF25-0CCBEDCD10EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255EEDF2-61E9-44F8-AF25-0CCBEDCD10EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53AE34D9-CCD5-44DE-B447-8FE29CC3F268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53AE34D9-CCD5-44DE-B447-8FE29CC3F268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53AE34D9-CCD5-44DE-B447-8FE29CC3F268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53AE34D9-CCD5-44DE-B447-8FE29CC3F268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420E1019-0A64-49FB-9C43-A99078460AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420E1019-0A64-49FB-9C43-A99078460AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420E1019-0A64-49FB-9C43-A99078460AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420E1019-0A64-49FB-9C43-A99078460AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743BBE99-411A-4FB3-B771-34DE827F63BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743BBE99-411A-4FB3-B771-34DE827F63BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743BBE99-411A-4FB3-B771-34DE827F63BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743BBE99-411A-4FB3-B771-34DE827F63BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1652FB4-6C50-4C60-9BB4-FB2BBE0CB1DA}
+	EndGlobalSection
+EndGlobal
